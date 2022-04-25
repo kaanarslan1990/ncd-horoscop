@@ -1,8 +1,8 @@
 
 # Main Idea
 
-A new generation web3 blog application.You can find your zodiac with your birthday.
-##### Video Link: https://www.loom.com/share/
+A new generation web3 blog application.You can find your zodiac with your birthday and birth month.
+##### Video Link: https://www.loom.com/share/6d9ca45fd7ad41dbb98bc6a6956d7fb2
 <br>   
 
 ## How to Use:

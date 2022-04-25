@@ -15,13 +15,13 @@ import {Zodiac, zodiacs} from "./model"
     return zodiacs.getSome(id);
   }
   
-  export function viewAllZodiacs(): Array<Zodiac> {
+ export function viewAllZodiacs(): Array<Zodiac> {
     return zodiacs.values();
   }
   
 
 // --------------------------------------------------------------------------
-// Public CHANGE methods
+// Public CREATE methods
 // --------------------------------------------------------------------------
 
 export function createZodiac(brtDay: u8, brtMonth: string): Zodiac {
