@@ -65,7 +65,7 @@ ExecutionError: 'Smart contract panicked: Please deposit exactly 1 NEAR to find 
 ```
 ### Example call *creteZodiac*:
 ```
-near call $CONTRACT createZodiac '{"brtDay":12, "brtMonth": "january"}' --accountId $CONTRACT
+near call $CONTRACT createZodiac '{"brtDay":12, "brtMonth": "january"}' --accountId $CONTRACT --amount 1
 ```
 **If you attached 1 Near example return :**
 ```
